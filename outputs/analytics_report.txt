@@ -1,0 +1,16 @@
+
+
+                    SAFETY ANALYTICS REPORT 
+
+
+                    Total Frames Processed: 206
+                    Total Person Detections: 209
+
+                    Posture Distribution:
+                    Standing: 0 (0.00%)
+                    Sitting : 0 (0.00%)
+                    Bending : 209 (100.00%)
+
+                    Total Risk Events Detected: 209
+
+                
